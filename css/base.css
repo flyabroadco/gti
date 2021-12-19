@@ -1,7 +1,7 @@
 html {
-    /* The nav header is 3.5rem high, plus 20px for the margin-top of the
+    /* The nav header is 3.5rem + 2px high, plus 20px for the margin-top of the
        main container. */
-    scroll-padding-top: calc(3.5rem + 20px);
+    scroll-padding-top: calc(3.5rem + 2px + 20px);
 }
 
 body > .container {
@@ -22,8 +22,8 @@ body > .container {
 }
 
 pre, code {
-    background: #e9ecef;
-    color: #333;
+    background: #eee;
+    color: #000;
     border: 1px solid rgba(0,0,0,0.125);
     border-radius: 0.25rem;
 }
@@ -44,11 +44,11 @@ pre code {
 }
 
 a code {
-    color: #dd4814;
+    color: #3399f3;
 }
 
 a:hover code {
-    color: #97310e;
+    color: #0c73cd;
 }
 
 kbd {
@@ -106,30 +106,30 @@ footer {
 /* Style each kind of admonition. */
 
 .admonition.note, .admonition.note > .admonition-title {
-    border-color: #bee5eb;
+    border-color: #c6e2fc;
 }
 
 .admonition.note > .admonition-title {
-    background: #d1ecf1;
-    color: #0c5460;
+    background: #d6ebfd;
+    color: #1b507e;
 }
 
 .admonition.warning, .admonition.warning > .admonition-title {
-    border-color: #fbebc9;
+    border-color: #f3d8b8;
 }
 
 .admonition.warning > .admonition-title {
-    background: #fcf1d8;
-    color: #7c5f20;
+    background: #f6e3cc;
+    color: #6e3d00;
 }
 
 .admonition.danger, .admonition.danger > .admonition-title {
-    border-color: #f6c7c4;
+    border-color: #f1b8b8;
 }
 
 .admonition.danger > .admonition-title {
-    background: #f9d7d5;
-    color: #741d17;
+    background: #f5cccc;
+    color: #6b0100;
 }
 
 /*
@@ -142,9 +142,9 @@ footer {
 .bs-sidebar.affix {
     position: -webkit-sticky;
     position: sticky;
-    /* The nav header is 3.5rem high, plus 20px for the margin-top of the
+    /* The nav header is 3.5rem + 2px high, plus 20px for the margin-top of the
        main container. */
-    top: calc(3.5rem + 20px);
+    top: calc(3.5rem + 2px + 20px);
 }
 
 .bs-sidebar.card {
@@ -152,7 +152,7 @@ footer {
 }
 
 .bs-sidebar > .card {
-    background-color: #e9ecef !important;
+    background-color: #eee !important;
 }
 
 /* Toggle (vertically flip) sidebar collapse icon */
@@ -223,12 +223,12 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 @media (max-width: 991.98px) {
     .navbar-collapse.show {
         overflow-y: auto;
-        max-height: calc(100vh - 3.5rem);
+        max-height: calc(100vh - 3.5rem - 2px);
     }
 }
 
 .dropdown-item.open {
-    color: #16181b;
+    color: #202020;
     background-color: #f8f9fa;
 }
 
@@ -259,7 +259,7 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
 @media (min-width: 992px) {
     .dropdown-menu {
         overflow-y: auto;
-        max-height: calc(100vh - 3.5rem);
+        max-height: calc(100vh - 3.5rem - 2px);
     }
 
     .dropdown-submenu {
