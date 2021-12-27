@@ -2,37 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gti.flyabroad.co/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://gti.flyabroad.co/FAQ/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.co/GTI%E7%B4%A7%E7%BC%BA%E9%A2%86%E5%9F%9F/AgTech/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <loc>https://gti.flyabroad.co/sectors/AdvancedManufacturing/</loc>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.co/GTI%E7%B4%A7%E7%BC%BA%E9%A2%86%E5%9F%9F/Defence/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <loc>https://gti.flyabroad.co/sectors/AgTech/</loc>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.co/GTI%E7%B4%A7%E7%BC%BA%E9%A2%86%E5%9F%9F/Energy/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <loc>https://gti.flyabroad.co/sectors/CircularEconomy/</loc>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.co/GTI%E7%B4%A7%E7%BC%BA%E9%A2%86%E5%9F%9F/Health/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <loc>https://gti.flyabroad.co/sectors/Defence/</loc>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.co/GTI%E7%B4%A7%E7%BC%BA%E9%A2%86%E5%9F%9F/Resources/</loc>
-         <lastmod>2021-12-24</lastmod>
+         <loc>https://gti.flyabroad.co/sectors/DigiTech/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Education/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Energy/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Fintech/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Health/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Infrastructure/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Resources/</loc>
+         <lastmod>2021-12-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.co/sectors/Space/</loc>
+         <lastmod>2021-12-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
