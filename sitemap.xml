@@ -6,32 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gti.flyabroad.io/FAQ/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gti.flyabroad.io/cases/2020cases/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gti.flyabroad.io/dynamics/2019/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gti.flyabroad.io/dynamics/2020/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://gti.flyabroad.io/dynamics/2021/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://gti.flyabroad.io/introduction/858/</loc>
+         <lastmod>2021-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.io/introduction/FAQ/</loc>
+         <lastmod>2021-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.io/introduction/cases/</loc>
+         <lastmod>2021-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gti.flyabroad.io/introduction/dynamics/</loc>
          <lastmod>2021-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
